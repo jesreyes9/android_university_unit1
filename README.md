@@ -28,7 +28,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="ezgif.com-gif-maker (2).gif" width=300><br>
 
 ### Notes
-Some challenges I encountered when building Flix:
+Some challenges I encountered when building Flix:<br>
  -getting the Android Studio emulator to work properly
  -implementing the orientation to the Flix application
 
